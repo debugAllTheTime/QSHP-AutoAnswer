@@ -12,4 +12,5 @@
 ![Secret](pic/secret.png)
 
 # 设置actions
+点击项目上方的Actions,启用actions
 提交任意commit来触发actions,可以在某处敲个空格什么的(注意不要把这项改动提交到PR)
